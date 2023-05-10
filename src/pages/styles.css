@@ -1,0 +1,6 @@
+.addressField {
+  display: flex;
+  align-items: center;
+  display: 'inline-block';
+  justify-content: center;
+}
